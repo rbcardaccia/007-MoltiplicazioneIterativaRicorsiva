@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=007-MoltiplicazioneIterativaRicorsiva
+PROJECTNAME=Ese007Mol
 
 # Active Configuration
 DEFAULTCONF=Debug
